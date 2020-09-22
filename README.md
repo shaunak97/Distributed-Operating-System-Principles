@@ -1,5 +1,4 @@
 # Distributed-Operating-System-Principles (COP5615) Project 1
-  Perfect squares formed by the sums of consecutive squares
 
 
 #Group members:
@@ -8,6 +7,12 @@
 |-----------------|
 | Shaunak Sompura |  
 | Bharat Shankar  | 
+
+
+     Problem definition: Given N and k, find all k consecutive numbers starting at 1 and upto N such that the sum of squares is itself a perfect square.
+
+    Approach: The solution to this problem is achieved using the actor facility in F# and Akka.NET. Multiple child actors are spawned and assigned computational tasks using a single parent actor. This actor model decreases time taken to compute solution by carrying out tasks in parallel.
+
 
 #Steps to run
 1. Unzip the file and navigate inside the folder
