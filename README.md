@@ -4,10 +4,10 @@
 
 #Group members:
 
-| Name            | UFID      |
-|-----------------|-----------|
-| Shaunak Sompura | 9911-2362 |
-| Bharat Shankar  | 9841-4098 |
+| Name            |       
+|-----------------|
+| Shaunak Sompura |  
+| Bharat Shankar  | 
 
 #Steps to run
 1. Unzip the file and navigate inside the folder
